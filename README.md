@@ -1,4 +1,3 @@
-
 # Humanité d’Abord - Mini Studio IA
 
 🌍 **Humanité d’Abord** est un projet visant à promouvoir la paix, la solidarité et la valorisation de l’humain à travers un **mini-studio IA**.  
