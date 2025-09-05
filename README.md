@@ -27,7 +27,9 @@ with open(f'{project_path}/src/App.jsx', 'w') as f: f.write(app_code)
 
 Créer package.json basique
 
-package_json = '''{ "name": "humanite-dabord-studio", "version": "1.0.0", "private": true, "dependencies": { "react": "^18.0.0", "react-dom": "^18.0.0", "react-scripts": "5.0.1", "tailwindcss": "^3.3.3" }, "scripts": { "start": "react-scripts start", "build": "react-scripts build" } }'''
+package_json = '''{ { "name": "humanite-dabord-studio", "version": "1.0.0", "private": true, "dependencies": { "react": "^18.2.0", "react-dom": "^18.2.0", "react-scripts": "5.0.1", "tailwindcss": "^3.3.3", "postcss": "^8.4.21", "autoprefixer": "^10.4.14" }, "scripts": { "start": "react-scripts start", "build": "react-scripts build", "test": "react-scripts test", "eject": "react-scripts eject" }, "eslintConfig": { "extends": ["react-app", "react-app/jest"] }, "browserslist": { "production": [">0.2%", "not dead", "not op_mini all"], "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"] } }
+
+
 
 with open(f'{project_path}/package.json', 'w') as f: f.write(package_json)
 
