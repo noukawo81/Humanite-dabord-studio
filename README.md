@@ -1,6 +1,7 @@
 # Mini Studio IA - Humanité d'abord
 🌍 **Humanité d’Abord** est un projet visant à promouvoir la paix, la solidarité et la valorisation de l’humain à travers un **mini-studio IA**.  
 Ce studio permet de créer facilement des **messages, images, vocaux et vidéos inspirants** pour sensibiliser le monde à l’importance de l’humanité.
+
 ---
 
 ## 🎯 Objectif du projet
